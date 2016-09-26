@@ -1,3 +1,10 @@
-#active {
-	text-decoration-color: rgb(255, 0, 0);
+/**
+* www.rewardit.co.nf
+* common css styles
+*
+* @ author Pieter Vercruyce
+*/
+
+.active {
+	text-decoration: overline;
 }
